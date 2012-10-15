@@ -15,7 +15,7 @@ end
 
 class AppleGcc42 < Formula
   homepage 'http://r.research.att.com/tools/'
-  url 'http://r.research.att.com/tools/gcc-42-5666.3-darwin11.pkg',
+  url 'http://www.stats.ox.ac.uk/pub/R/gcc-42-5666.3-darwin11.pkg',
     :using => PkgDownloadStrategy
   version '4.2.1-5666.3'
   sha1 '8fadde2a159082d6474fe9e325b6301e3c0bc84f'
